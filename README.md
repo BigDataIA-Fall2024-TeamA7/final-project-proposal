@@ -55,7 +55,7 @@ In the digital age, webinars and video content are indispensable for learning an
 ---
 
 ## Submission Links
-- **Codelabs**: [Codelab Documentation](https://codelabs-preview.appspot.com/?file_id=https://docs.google.com/document/d/1_veVgLEZew3sWC_vCtCP68glH-6uxFbS87cYLzr7R6Y/edit?tab=t.0#6)
+- **Codelabs**: [Codelab Documentation](https://codelabs-preview.appspot.com/?file_id=1ljpoSFuprLZ6uKOwIznQ0ntR6E4RsxCyzKnE0S3wszU#0)
 
 ---
 
