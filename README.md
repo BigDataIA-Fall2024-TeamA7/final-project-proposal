@@ -58,9 +58,9 @@ EduSearch AI is a comprehensive tool designed to process and transform YouTube c
 
 ## Submission Links
 - **Codelabs**: [Codelab Documentation](https://codelabs-preview.appspot.com/?file_id=1ljpoSFuprLZ6uKOwIznQ0ntR6E4RsxCyzKnE0S3wszU#0)
-- **Updated Codelabs with demo**: [Codelab Documentation](https://codelabs-preview.appspot.com/?file_id=https://docs.google.com/document/d/1_xWgCivVnV8KPgI_saIVdKzCil6ElPJVC36lGPn9z4c/edit?usp=sharing#0)
+- **Updated Codelabs demo**: [Codelab Documentation](https://codelabs-preview.appspot.com/?file_id=https://docs.google.com/document/d/1_xWgCivVnV8KPgI_saIVdKzCil6ElPJVC36lGPn9z4c/edit?usp=sharing#0)
 - **Video Demo** : [Video Demo](demo)
-
+- **Updated Video Demo** : [Video Demo](updated-demo)
 ---
 
 ### **Expected Outcomes**
