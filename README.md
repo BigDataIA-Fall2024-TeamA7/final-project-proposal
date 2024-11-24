@@ -1,17 +1,19 @@
 # Final-Project-Proposal
 
-# **WebinarAI - Unleashing the Power of AI for Webinar Intelligence**
+# **EduSearch AI: Transforming YouTube Course Playlists into Interactive Learning Resources**
 
 ### **Overview**
-In the digital age, webinars and video content are indispensable for learning and professional development. However, navigating and extracting meaningful insights from hours of unstructured video data can be challenging. **WebinarAI** aims to solve this problem by leveraging cutting-edge AI techniques to process, organize, and enhance webinar content, making it more accessible and actionable.
+EduSearch AI is a comprehensive tool designed to process and transform YouTube course playlists into structured, interactive learning resources. With features like transcript generation, research notes, semantic search, Q&A, and supplementary material recommendations, the platform aims to make educational content more accessible and actionable for students, educators, and researchers.
 
 ---
 
 ### **Objectives**
-- Automate the transcription, processing, and metadata enrichment of webinars.
-- Enable users to retrieve specific insights efficiently through semantic search and Q&A capabilities.
-- Provide engagement analytics to identify high-value segments in webinars.
-- Deliver a scalable and modular solution for large-scale video data processing.
+- Playlist Processing: Automatically process YouTube playlists to extract videos, transcripts, and metadata.
+- Semantic Search: Query across processed playlists for specific topics, terms, or concepts.
+- Research Notes: Generate structured summaries for each lecture or topic.
+- Q&A Extraction: Interact with extracted Q&A pairs linked to timestamps.
+- Material Recommendations: Retrieve related articles, presentations, and datasets for deeper learning.
+- Report Generator: Download research notes, Q&A logs, and citations in PDF format.
 
 ---
 
@@ -73,11 +75,6 @@ In the digital age, webinars and video content are indispensable for learning an
 - **Enhanced Usability**: Summarization, Q&A extraction, and visual analytics empower users.
 - **Time Efficiency**: Reduces time spent navigating video content by 70%.
 - **Scalability**: Modular architecture supports large datasets and diverse use cases.
-
----
-
-### **Conclusion**
-**WebinarAI** proposes a scalable and innovative solution to address the challenges of unstructured video data. By automating transcription, summarization, and analytics, this platform enhances the usability of webinars for educators, researchers, and professionals. With a modular and efficient architecture, WebinarAI is poised to set a benchmark in webinar intelligence and accessibility.
 
 ---
 
