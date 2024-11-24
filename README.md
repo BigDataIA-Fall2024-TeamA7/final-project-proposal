@@ -28,7 +28,7 @@ EduSearch AI is a comprehensive tool designed to process and transform YouTube c
 ---
 
 ## Architecture Diagram
-![Architecture Diagram](pipeline-diagram/webinar_ai_data_pipeline.png)
+![Architecture Diagram](updated-architecture-diagram/edusearch_ai_enhanced_flow.png)
 
 ---
 ### **Methodology**
